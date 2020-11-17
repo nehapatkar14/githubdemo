@@ -1,4 +1,6 @@
 Modidfied in 2nd commit
 Written in Second commit in Issue1 Commit
-Writeen in mster for commit
+
+Bug2 Commit
+
 
